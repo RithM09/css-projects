@@ -28,7 +28,38 @@ a {
 
 /* first  */
 
-/* .neon-pink {
+
+
+/* second */
+
+a {
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+  margin: 40px 0;
+  color: #03e9f4;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.5s;
+  letter-spacing: 4px;
+  overflow: hidden;
+  margin-right: 50px;
+}
+
+a:hover {
+  background: #03e9f4;
+  color: #050801;
+  box-shadow: 0 0 100px #03e9f4;
+  /* -webkit-box-reflect: below 1px linear-gradient(transform, black); */
+}
+
+
+
+
+
+
+
+.neon-pink {
   font-size: 2rem;
 
   display: inline-block;
@@ -58,29 +89,4 @@ a {
 
   transform: perspective(1em) rotateX(40deg) scale(1, 0.50);
   filter: blur(2em);
-} */
-
-
-/* second */
-
-a {
-  position: relative;
-  display: inline-block;
-  padding: 25px 30px;
-  margin: 40px 0;
-  color: #03e9f4;
-  text-decoration: none;
-  text-transform: uppercase;
-  transition: 0.5s;
-  letter-spacing: 4px;
-  overflow: hidden;
-  margin-right: 50px;
 }
-
-a:hover {
-  background: #03e9f4;
-  color: #050801;
-  box-shadow: 0 0 100px #03e9f4;
-  /* -webkit-box-reflect: below 1px linear-gradient(transform, black); */
-}
-
