@@ -17,7 +17,21 @@ body {
   align-items: center;
   font-family: "Montserrat", sans-serif;
   font-size: 12px;
-  background-color: #ecf0f3;
+  background-image: linear-gradient(
+    to right top,
+    #7b6ff2,
+    #008cfb,
+    #009ef0,
+    #00abd9,
+    #00b3bf,
+    #32b6b5,
+    #4cb9ac,
+    #62bba3,
+    #5cbca3,
+    #56bda2,
+    #4fbda2,
+    #47bea2
+  );
   color: #a0a5a8;
 }
 
