@@ -138,11 +138,6 @@ body {
   box-shadow: 8px 8px 16px #d1d9e6, -8px -8px 16px #f9f9f9;
 }
 
-/* .a-container {
-  z-index: 100;
-  left: calc(100% - 600px);
-} */
-
 .form_link {
   text-decoration: none;
   color: #181818;
@@ -151,8 +146,3 @@ body {
   border-bottom: 1px solid #a0a5a8;
   line-height: 2;
 }
-
-/* .b-container {
-  left: calc(100% - 600px);
-  z-index: 0;
-} */
