@@ -40,7 +40,6 @@ body {
   min-width: 700px;
   min-height: 600px;
   height: 600px;
-  padding: 25px;
   border-radius: 12px;
   background: #ecf0f3;
   box-shadow: 10px 10px 10px #909294, -10px -10px 10px #ffffff;
@@ -68,6 +67,10 @@ body {
   flex-direction: column;
   width: 100%;
   height: 100%;
+}
+
+.form-icons {
+  display: flex;
 }
 
 .form-icon {
