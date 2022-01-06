@@ -1,0 +1,1 @@
+alert("Sorry, this website is only available for large and medium screens, not mobile friendly")
